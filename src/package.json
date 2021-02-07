@@ -1,12 +1,12 @@
 {
-	"name": "@enduco/nativescript-cscreenshot",
+	"name": "@knotes/nativescript-cscreenshot",
 	"version": "1.0.0",
 	"description": "Your Take a View Screenshot Nativescript Plugin!",
 	"main": "cscreenshot",
 	"typings": "index.d.ts",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/enduco/nativescript-cscreenshot.git"
+		"url": "https://github.com/Knotes/nativescript-cscreenshot.git"
 	},
 	"scripts": {
 		"tsc": "npm i && tsc --watch && ts-patch install",
@@ -37,14 +37,14 @@
 		"Screenshot"
 	],
 	"author": {
-		"name": "enduco",
-		"email": "hello@enduco.app"
+		"name": "Knotes",
+		"email": "hello@Knotes.app"
 	},
 	"bugs": {
-		"url": "https://github.com/enduco/nativescript-cscreenshot/issues"
+		"url": "https://github.com/Knotes/nativescript-cscreenshot/issues"
 	},
 	"license": "Apache-2.0",
-	"homepage": "https://github.com/enduco/nativescript-cscreenshot",
+	"homepage": "https://github.com/Knotes/nativescript-cscreenshot",
 	"devDependencies": {
 		"@nativescript/core": "~7.0.10",
 		"@nativescript/types": "~7.0.4",
